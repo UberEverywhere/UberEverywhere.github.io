@@ -1,5 +1,5 @@
 p {
-    color: darkgreen;
+    color: #69A297;
 }
 
 p{
@@ -8,14 +8,14 @@ p{
 
 p {
 	border-style: solid;
-	border-color: darkkhaki;
-	border-left-width:20px;
-	border-right-width:20px;
+	border-color: #69A297;
+	border-left-width:3px;
+	border-right-width:3px;
 }
 
 h1 {
-	color: MISTYROSE ;
-	background-color: DARKSLATEGRAY
+	color: #BEE6CB ;
+	background-color: #69A297
 }
 
 h1{
@@ -30,7 +30,7 @@ ul {list-style-type: none;
 	margin: 5;
 	padding: 0;
 	width: 200px;
-	background-color: #f1f1f1;
+	background-color: #68D89B;
 }
 
 li a {
@@ -41,6 +41,11 @@ li a {
 }
 
 li a:hover{
-	background-color: #555;
-	color: white;
+	background-color: #BCFFDE;
+	color: BLACK;
+}
+
+
+body {
+    background-color: #BCFFDE;
 }
